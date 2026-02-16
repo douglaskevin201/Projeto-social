@@ -30,8 +30,8 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 480px;
-    width: 280px;
+    height: 482px;
+    width: 270px;
     background:  url(../imagens/frame-iphone.png) no-repeat;
     background-size: contain;
    
@@ -43,6 +43,7 @@ iframe#tela{
     left: 18px;
     width: 203px;
     height: 358px;
+    border: none;
 }
 section#redes-sociais{
     text-align: right;
